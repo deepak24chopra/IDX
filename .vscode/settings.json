@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "vlocity.sfdxUsername": "d.chopra-2790065323@industryapps.com"
+  "vlocity.sfdxUsername": "d.chopra-2790065323@industryapps.com",
+  "vlocity.projectPath": "c:\\Users\\Deepak Chopra\\Documents\\Metadata\\IDX"
 }

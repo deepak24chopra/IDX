@@ -1,0 +1,62 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "result:Name",
+        "%vlocity_namespace%__GlobalKey__c": "d201b213-76f4-d5b5-b7d3-efd5ce57706f",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "records:groupName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CustomizeGroupDetailsForReplaceCustoma005g000031DjgvAACItem0",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CustomizeGroupDetailsForReplace",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "result:groupCartId",
+        "%vlocity_namespace%__GlobalKey__c": "9f933a2a-1c93-aa29-3128-60d1eaf1e5b0",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "records:%vlocity_namespace%__GroupCartId__c:value",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CustomizeGroupDetailsForReplaceCustoma005g000031DjgvAACItem1",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CustomizeGroupDetailsForReplace",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "result:groupId",
+        "%vlocity_namespace%__GlobalKey__c": "ba0f73c0-fd58-5f34-7962-b5162069887b",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "records:groupId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CustomizeGroupDetailsForReplaceCustoma005g000031DjgvAACItem2",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CustomizeGroupDetailsForReplace",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "result:memberType",
+        "%vlocity_namespace%__GlobalKey__c": "fbb4ef5b-781e-08a0-3c74-f8d1eb7ef486",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "records:%vlocity_namespace%__MemberType__c:value",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CustomizeGroupDetailsForReplaceCustom3801",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CustomizeGroupDetailsForReplace",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

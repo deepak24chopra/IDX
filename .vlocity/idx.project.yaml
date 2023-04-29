@@ -1,0 +1,24 @@
+Name: IDX
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/CPQ-CreateOpportunity
+    - DataRaptor/GetAccountFromAsset
+    - DataRaptor/GetExistingAssetsFromOrderItem
+    - DataRaptor/CreateOrderRequestData
+    - DataRaptor/CreateQuoteRequestData
+    - DataRaptor/CPQ-Get-Groups-To-Create-List
+    - DataRaptor/CPQ-Get-Products-From-Assets
+    - DataRaptor/UpdateOrderAccount
+    - DataRaptor/cpqGetRecordType
+    - IntegrationProcedure/CPQ_StartBulkCreateGroups
+    - IntegrationProcedure/CPQ_CreateOrder
+    - OmniScript/CPQ_ChangeToOrder_Multi-Language
+    - OmniScript/CPQ_SingleMove_Multi-Language
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+VlocityTypesToFetch:
+    - DataRaptor
+    - OmniScript
+    - VlocityCard
+    - VlocityUILayout
+    - IntegrationProcedure
+SalesforceTypesToFetch:
