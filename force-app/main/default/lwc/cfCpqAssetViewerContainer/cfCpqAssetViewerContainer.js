@@ -39,7 +39,7 @@ import { FlexCardMixin } from "vlocity_cmt/flexCardMixin";
               connectedCallback() {
                 super.connectedCallback();
                 this.setStyleDefinition(styleDef);
-                data.Session = {} //reinitialize on reload
+                data.Session = {} //reinitialize on reload commenting
                 
                 
                 this.customLabels = this.Label;
