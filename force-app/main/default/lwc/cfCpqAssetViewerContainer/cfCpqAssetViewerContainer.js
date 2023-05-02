@@ -41,6 +41,7 @@ import { FlexCardMixin } from "vlocity_cmt/flexCardMixin";
                 this.setStyleDefinition(styleDef);
                 data.Session = {} //reinitialize on reload commenting
                 //adding a comment
+                //adding another comment.
                 
                 this.customLabels = this.Label;
                       
